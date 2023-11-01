@@ -1,5 +1,3 @@
- ## [Daily Log](diary/diary.md)
- 
- ## [Trips](trips/index.md)
- 
+## [Daily Log](diary/diary.md)
 
+## [Trips](trips/index.md)
