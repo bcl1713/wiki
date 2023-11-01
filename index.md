@@ -1,3 +1,1 @@
-# Index
-
-- [Diary](diary/diary.md)
+# [Daily Log](diary/diary.md)
