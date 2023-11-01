@@ -17,9 +17,12 @@
 ## Itinerary
 ### Thur
 - Arrive
+
 ### Fri
 - Ferry to Gozo
+
 ### Sat
 - 0930 Food Tour
+
 ### Sun
 - Return
