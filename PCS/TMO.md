@@ -1,9 +1,15 @@
 # TMO
 
-Phone: 
+<!--toc:start-->
+- [TMO](#tmo)
+  - [Phone](#phone)
+  - [Appointments](#appointments)
+<!--toc:end-->
 
-Come to the office, schedule you in and discuss
+## Phone
++31 45 534 0089
 
-5 December 13:00-14:00 14:00-15:00
-Behind Commissary in the BLDG 7 Room 133
-Bring Orders
+## Appointments
+
+- 20231205 13:00-14:00 @ BLDG 7 Room 133
+  - Bring Orders
