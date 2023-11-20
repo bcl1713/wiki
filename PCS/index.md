@@ -2,11 +2,13 @@
 
 <!--toc:start-->
 - [PCS 2024](#pcs-2024)
-  - [[Orders](./Orders.pdf)](#ordersorderspdf)
-  - [[TMO](TMO)](#tmotmo)
+  - [Orders](#orders)
+  - [Links](#links)
 <!--toc:end-->
 
-## [Orders](./Orders.pdf)
+## Orders
+[Orders](./Orders.pdf)
 
-## [TMO](TMO)
+## Links
+- [TMO](TMO)
 
