@@ -1,4 +1,4 @@
-## [Malta](Malta)
-## [STRT](../bullets/STRT)
+## [Malta](Malta/index)
+## [STRT](STRT/index)
 
 [template](template)
