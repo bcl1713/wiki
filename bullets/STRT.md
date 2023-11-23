@@ -8,6 +8,11 @@ Lackland AFB CEA Center of Excellence
 
 20231115 - DTS Filed
 
+## Parking
+
+Reference: CJFJ5
+[Confirmation](../trips/STRT-Parking.pdf)
+
 ## Itinerary
 
 Locator: IEIZVU

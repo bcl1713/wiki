@@ -1,5 +1,7 @@
 ## 2023
 
+### [Annual Awards](./Annual Awards/index.md)
+
 ### October
 
 - [Trunk or Treat](Trunk or Treat)
