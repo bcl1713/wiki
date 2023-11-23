@@ -20,6 +20,7 @@
 
 ### Fri
 - Ferry to Gozo
+- Four Wheeling
 
 ### Sat
 - 0930 Food Tour
