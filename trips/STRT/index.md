@@ -43,9 +43,7 @@ Locator: [IEIZVU](./Itinerary.pdf)
 
 ### Parking
 
-Reference: CJFJ5
-
-[Confirmation](./STRT-Parking.pdf)
+Reference: [CJFJ5](./STRT-Parking.pdf)
 
 ### Flights
 
