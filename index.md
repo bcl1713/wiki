@@ -2,7 +2,7 @@
 
 ## [Work](./Work/index)
 
-## [Tech](./Tech/index)
+## [Tech](./Tech/index.md)
 
 ## [PCS](PCS/index)
 
