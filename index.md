@@ -6,6 +6,4 @@
 
 ## [PCS](PCS/index)
 
-## [Trips](trips/index.md)
-
-## [Bullets](bullets/index.md)
+## [Trips](trips/index)

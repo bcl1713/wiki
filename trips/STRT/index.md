@@ -84,13 +84,15 @@ American Airlines 7086
 ### Hotel
 
 Confirmation Number: 84691117
-Hotel Residence Inn San Antonio Seaworld/Lackland
-2838 Cinema Ridge
-San Antonio, TX 78238
+
+   Hotel Residence Inn San Antonio Seaworld/Lackland
+   2838 Cinema Ridge
+   San Antonio, TX 78238
 
 ### Rental Car
 
 Confirmation Number: 9706859870
+
 Car SIXT
 
 ## Daily Itinerary
