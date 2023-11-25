@@ -39,7 +39,7 @@
 
 ## Travel Itinerary
 
-Locator: IEIZVU
+Locator: [IEIZVU](./Itinerary.pdf)
 
 ### Parking
 
