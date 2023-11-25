@@ -35,6 +35,8 @@
 - [ ] [Meeting With CMSgt Cook](Meeting With CMSgt Cook)
 - [ ] File DTS Voucher
 
+## [Packing List](Packing List)
+
 ## Travel Itinerary
 
 Locator: IEIZVU
