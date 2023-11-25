@@ -2,6 +2,8 @@
 
 ## [Work](./Work/index)
 
+## [Tech](./Tech/index)
+
 ## [PCS](PCS/index)
 
 ## [Trips](trips/index.md)
