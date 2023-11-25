@@ -32,7 +32,7 @@
 - [X] File DTS Authorization
 - [X] Book Parking
 - [X] Print CT/ST/RT/SO Essential Qualifications
-- [ ] [Meeting With CMSgt Cook](Meeting With CMSgt Cook)
+- [ ] [Meeting With CMSgt Cook](./Meeting With CMSgt Cook.md)
 - [ ] File DTS Voucher
 
 ## [Packing List](Packing List)
