@@ -4,6 +4,7 @@
 - [STRT](#strt)
   - [Description](#description)
   - [ToDos](#todos)
+  - [Packing List](#packing-list)
   - [Travel Itinerary](#travel-itinerary)
     - [Parking](#parking)
     - [Flights](#flights)
@@ -35,7 +36,9 @@
 - [ ] [Meeting With CMSgt Cook](./Meeting With CMSgt Cook.md)
 - [ ] File DTS Voucher
 
-## [Packing List](Packing List)
+## Packing List
+
+[Packing List](Packing List)
 
 ## Travel Itinerary
 
